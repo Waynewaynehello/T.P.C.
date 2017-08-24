@@ -1,6 +1,6 @@
 # T.P.C. - Tiny Pawā Charger
 
-Add a small battery charger inside for XBOX ONE Controller
+Add a small battery charger inside for XBOX ONE Controller connected to the USB port
 
 Components :
 
